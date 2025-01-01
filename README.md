@@ -2,7 +2,7 @@ VUE3 공부를 위한 프로젝트
 
 
 1. Vue 설치
-  ① workspace 진입
+  ① workspace 진입<br />
   ② npm init vue    * 뷰 프로젝트 생성
   ③ 생성한 vue project 진입
   ④ npm install     * 의존성 모듈 설치
