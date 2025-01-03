@@ -1,5 +1,7 @@
 <template>
     <div>
+      OPTIONS API
+      <br />
       <button v-on:click="increments">Counter: {{ counter }}</button>
     </div>
   </template>
