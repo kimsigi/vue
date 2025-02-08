@@ -2,7 +2,7 @@
     <div>
         <h2>HTML 클래스 바인딩</h2>
         <p>
-            
+            <strong>객체 바인딩</strong>
         </p>
     </div>
 </template>
