@@ -53,6 +53,9 @@
                 <li><button @click="changeName">이름변경</button></li>
             </ul>
         </p>
+
+        <hr>
+        ========================
     </div>
 </template>
 
