@@ -7,6 +7,7 @@ import { createApp } from 'vue'
 //import App from '@/chapter4/5/App.vue'
 //import App from '@/chapter4/6/App.vue';
 //import App from '@/chapter4/7/App.vue';
-import App from '@/chapter4/8/App.vue';
+//import App from '@/chapter4/8/App.vue';
+import App from '@/chapter4/9/App.vue';
 
 createApp(App).mount('#app')
