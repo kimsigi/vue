@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import './assets/style/tailwind.css';
+
 //import App from './App.vue'               // index
 //import App from '@/chapter4/1/App.vue'
 //import App from '@/chapter4/2/App.vue'
@@ -24,6 +25,8 @@ import './assets/style/tailwind.css';
 // import App from './chapter4/17/App.vue';
 // import App from './chapter4/18/App.vue';
 import App from './real/App.vue';
+
+// import App from './pms/App.vue';
 
 const app = createApp(App);
 app.use(router);
